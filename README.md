@@ -25,5 +25,5 @@ Copy this (chrome://settings/help) and paste on address bar.
   
 5. Compile it and have fun with TSJ !  
 ```
-python help_TSJ.py
+python3 help_TSJ.py
 ```
