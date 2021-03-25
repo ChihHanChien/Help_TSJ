@@ -11,8 +11,9 @@ This version only support Google Chrome only.
 ## Preparation
 ### Download Google Chrome Webdriver
 1. Check your Google Chrome version 
-Click the following link to find it. (chrome://settings/help)
-(https://imgur.com/ysQwqIQ)
+Click the following link to find it. 
+[Chrome版本查看連結](chrome://settings/help)
+[Chrome版本查看連結示意圖](https://imgur.com/ysQwqIQ)
 
 2. 
 3.
