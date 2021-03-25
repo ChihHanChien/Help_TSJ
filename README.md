@@ -1,5 +1,5 @@
 # Help_TSJ
-A web browser assistant to help TSJ quickly.
+A web browser assistant helps TSJ quickly.
 This version only support Google Chrome only.
 
 ## Programming Language
