@@ -19,7 +19,9 @@ Copy this (chrome://settings/help) and paste on address bar.
   
 2. Download the related version of Chromedriver.  
   
-[ChromeDriver Download Link](https://chromedriver.chromium.org/downloads)
+[ChromeDriver Download Link](https://chromedriver.chromium.org/downloads)  
+  
+![ChromeDriver查看連結示意圖](https://imgur.com/MXGlRXa.png)  
   
 3. Unzip it and put it under the same address of Help_TSJ.py
   
