@@ -21,4 +21,4 @@ Copy this (chrome://settings/help) and paste on address bar.
   
 [ChromeDriver Download Link](https://chromedriver.chromium.org/downloads)
   
-
+3. Unzip it and put it under the same address of Help_TSJ.py
