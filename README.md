@@ -25,7 +25,9 @@ Copy this (chrome://settings/help) and paste on address bar.
   
 3. Unzip it and put it under the same address of Help_TSJ.py
   
-5. Compile it and have fun with TSJ !  
+![folder 查看連結示意圖](https://imgur.com/RpA1YMH.png)
+  
+4. Compile it and have fun with TSJ !  
 ```
 python3 help_TSJ.py
 ```
