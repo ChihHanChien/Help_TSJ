@@ -13,9 +13,13 @@ This version only support Google Chrome only.
 1. Check your Google Chrome version 
 Click the following link to find it.  
   
-[Chrome版本查看連結](chrome://settings/help)  
+Copy this (chrome://settings/help) and paste on address bar.  
   
-![Chrome版本查看連結示意圖](https://imgur.com/ysQwqIQ.png)
-2. 
-3.
-4. 
+![Chrome版本查看連結示意圖](https://imgur.com/ysQwqIQ.png)  
+
+2. Download the related version of Chromedriver.  
+  
+[ChromeDriver Download Link]https://chromedriver.chromium.org/downloads
+  
+5.
+6. 
