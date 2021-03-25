@@ -22,3 +22,8 @@ Copy this (chrome://settings/help) and paste on address bar.
 [ChromeDriver Download Link](https://chromedriver.chromium.org/downloads)
   
 3. Unzip it and put it under the same address of Help_TSJ.py
+  
+4.Compile it and have fun with TSJ !  
+```
+python help_TSJ.py
+```
