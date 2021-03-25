@@ -19,7 +19,6 @@ Copy this (chrome://settings/help) and paste on address bar.
 
 2. Download the related version of Chromedriver.  
   
-[ChromeDriver Download Link]https://chromedriver.chromium.org/downloads
+[ChromeDriver Download Link](https://chromedriver.chromium.org/downloads)
   
-5.
-6. 
+
